@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Denny I am  a apprentice in Germany<br>I like working on frontend and backend projects the languages/Framworks I like using the most are Spring Boot and Svelte/Kit, and am currently learning Rust.
+Hi I am Denny I am  a apprentice in Germany I like working on frontend and backend projects the languages/Framworks I like using the most are Spring Boot and Svelte/Kit, and am currently learning Rust.
 
 
 # 💻 Tech Stack:
