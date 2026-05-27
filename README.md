@@ -16,9 +16,9 @@ Lightweight Java CLI tool that auto-records Twitch streams via Streamlink & the 
 ![Live](https://img.shields.io/badge/live-hinabi.app-4CAF50?style=flat) ![Private](https://img.shields.io/badge/repo-private-lightgrey?style=flat)  
 Minimal language study tracker focused on fast logging — Spring Boot · Next.js · PostgreSQL
 
-**Chizuru** \
+**[Phi](https://github.com/DennySesay/phi)** \
 ![In Progress](https://img.shields.io/badge/status-in%20progress-orange?style=flat)  
-Japanese prefecture map quiz
+Config file launcher and manager
 
 **Akusento** \
 ![In Progress](https://img.shields.io/badge/status-in%20progress-orange?style=flat)  
