@@ -1,6 +1,6 @@
 Certified **Fachinformatiker für Anwendungsentwicklung** with a focus on **Java/Spring Boot** backends and **Next.js/TypeScript** frontends.
 Most of my personal projects sit at the intersection of software and Japanese language & culture.
-Currently exploring **Rust** on the side.
+Currently exploring **Go** on the side.
 
 > Open to junior backend / full-stack roles in Germany.
 
